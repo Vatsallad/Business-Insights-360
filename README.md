@@ -37,6 +37,6 @@ Transition Atliq Hardware from Excel to a real-time Power BI dashboard for insig
 
 # This interactive dashboard provides key insights into Atliq’s operations, market trends, and financial performance, helping the company make data-driven decisions and improve efficiency.
 
-# Live Dashboard : https://github.com/Vatsallad/Business-Insights-360.git
+# Live Dashboard : [https://github.com/Vatsallad/Business-Insights-360.git](https://app.powerbi.com/view?r=eyJrIjoiNDQyMWE0Y2ItNDg0NS00ZDA2LWI4OTgtOGM2YjZhMzAxMTQ0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 # This project is the part of Codebasics Power BI course; I would like to express my sincere gratitude to my mentor Dhaval sir & Hemanand sir for their guidance and support throughout this project.
