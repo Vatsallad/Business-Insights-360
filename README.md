@@ -35,8 +35,8 @@ Transition Atliq Hardware from Excel to a real-time Power BI dashboard for insig
 𝗡𝗲𝘁 𝗦𝗮𝗹𝗲𝘀 ,𝗚𝗿𝗼𝘀𝘀 𝗠𝗮𝗿𝗴𝗶𝗻 % ,𝗖𝗢𝗚𝗦 (𝗖𝗼𝘀𝘁 𝗼𝗳 𝗚𝗼𝗼𝗱𝘀 𝗦𝗼𝗹𝗱),𝗠𝗮𝗿𝗸𝗲𝘁 𝗦𝗵𝗮𝗿𝗲 % ,
 𝗙𝗼𝗿𝗲𝗰𝗮𝘀𝘁 𝗔𝗰𝗰𝘂𝗿𝗮𝗰𝘆,𝗡𝗲𝘁 𝗘𝗿𝗿𝗼𝗿,𝗔𝗯𝘀𝗼𝗹𝘂𝘁𝗲 𝗘𝗿𝗿𝗼𝗿 etc .
 
-# This interactive dashboard provides key insights into Atliq’s operations, market trends, and financial performance, helping the company make data-driven decisions and improve efficiency.
+#This interactive dashboard provides key insights into Atliq’s operations, market trends, and financial performance, helping the company make data-driven decisions and improve efficiency.
 
-# Live Dashboard : [https://github.com/Vatsallad/Business-Insights-360.git](https://app.powerbi.com/view?r=eyJrIjoiNDQyMWE0Y2ItNDg0NS00ZDA2LWI4OTgtOGM2YjZhMzAxMTQ0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+#Live Dashboard : [https://github.com/Vatsallad/Business-Insights-360.git](https://app.powerbi.com/view?r=eyJrIjoiNDQyMWE0Y2ItNDg0NS00ZDA2LWI4OTgtOGM2YjZhMzAxMTQ0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-# This project is the part of Codebasics Power BI course; I would like to express my sincere gratitude to my mentor Dhaval sir & Hemanand sir for their guidance and support throughout this project.
+#This project is the part of Codebasics Power BI course; I would like to express my sincere gratitude to my mentor Dhaval sir & Hemanand sir for their guidance and support throughout this project.
