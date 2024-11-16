@@ -1,6 +1,7 @@
 # Business-Insights-360- Power BI
+
 Hello Everyone, 
-I am excited to share my Power BI project : 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 𝟯𝟲𝟬; developed for AtliQ Technologies.This project was a great opportunity to apply my skills in 𝗱𝗮𝘁𝗮 𝘃𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻, 𝗗𝗔𝗫, and 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 .
+I am excited to share my Power BI project : 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 𝟯𝟲𝟬; developed for AtliQ Technologies.This project was a great opportunity to apply my skills in 𝗱𝗮𝘁𝗮 𝘃𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻, 𝗗𝗔𝗫  and 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 .
 
 ❓𝗣𝗥𝗢𝗕𝗟𝗘𝗠 𝗦𝗧𝗔𝗧𝗘𝗠𝗘𝗡𝗧:
 Atliq Hardware, a fast-growing consumer electronics company with a global presence, was facing challenges due to outdated data analysis methods, 
